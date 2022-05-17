@@ -1,2 +1,2 @@
-My frist git file
+My first git file
 
